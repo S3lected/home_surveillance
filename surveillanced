@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source /home/pi/.profile
+workon cv
+cd /home/pi/home_surveillance
+python pi_surveillance.py --conf conf.json
