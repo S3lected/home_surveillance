@@ -2,8 +2,6 @@
 
 # import the necessary packages
 from pyimagesearch.tempimage import TempImage
-# from dropbox import DropboxOAuth2FlowNoRedirect
-# from dropbox import DropboxClient
 #from picamera.array import PiRGBArray
 #from picamera import PiCamera
 import argparse
